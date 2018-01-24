@@ -1,3 +1,3 @@
 # Fullstack-kurssi
 
-Viikko 1 (https://fullstack-hy.github.io/)
+Osa 1 (https://fullstack-hy.github.io/)
