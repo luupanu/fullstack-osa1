@@ -11,7 +11,7 @@ const Yhteensa = ({osat}) => {
   const lkm = osat.map(t => t.tehtavia).reduce((a, b) => a + b);
   return(
     <div>
-      <p>yhteensä {osat.map(t => t.tehtavia).reduce((a, b) => a + b)} tehtävää</p>
+      <p>yhteensä {lkm} tehtävää</p>
     </div>
   )
 }
